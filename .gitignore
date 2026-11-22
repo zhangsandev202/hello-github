@@ -1,0 +1,8 @@
+# 忽略临时文件
+
+*.tmp
+*.log
+*.bak
+Thumbs.db
+desktop.ini
+.DS_Store
